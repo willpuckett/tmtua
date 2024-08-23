@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+CN1,HF1004E,FanPinHeader_1x04_P2.54mm_Vertical,146.04,-90.216,180.0,top
+CN2,HF1004E,FanPinHeader_1x04_P2.54mm_Vertical,146.05,-100.33,180.0,top
+J1,B-2100S08P-A110,PinHeader_1x08_P2.54mm_Vertical,139.7,-92.71,0.0,bottom
+J2,B-2100S08P-A110,PinHeader_1x08_P2.54mm_Vertical,152.4,-92.71,0.0,bottom
+J3,PZ200V-11-03P,PinHeader_1x03_P2.00mm_Vertical,147.32,-84.455,90.0,top
+J4,PZ200V-11-03P,PinHeader_1x03_P2.00mm_Vertical,147.32,-94.615,90.0,top
