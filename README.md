@@ -71,7 +71,7 @@ board is too strong for a 24v fan, though fine for 5 and 12v fans.
 You can order the board from [JLCPCB](https://jlcpcb.com) using the
 [production_files](jlcpcb/production_files) directory.
 
-They're also available on my [etsy](https://octule.etsy.com).
+They're also available on my [here](https://octule.com).
 
 [^1]: May not be wired on older boards. On newer boards, you may need to jumper
 the UART pin under the stepper driver slot to connect it to your mcu. Consult
